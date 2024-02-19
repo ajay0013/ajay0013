@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay0013&theme=radical" alt="ajay0013" /></a> </p>
 
-- 🌱 I’m currently learning **AI, ML**
+- 🌱 I’m currently learning **Node, Next and Angular**
 
 - 📫 How to reach me **dhimanajay0007@gmail.com**
 - 👨‍💻 All of my projects are available at **https://github.com/ajay0013?tab=repositories**
